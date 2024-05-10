@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+.btn {
+    height: 20vmax;
+    width: 20vmax;
+    border-radius: 20%;
+    border: 10px solid black;
+}
+
+.buttonContainer { 
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+
+.flash {
+    background-color: azure;
+}
+.userflash {
+    background-color: black;
+}
+
+@media (max-width:600px) {
+    .btn {
+        height: 30vh;
+        width: 30vw;
+    }
+    
+}
