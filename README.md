@@ -2,7 +2,7 @@ This is a demo for simon says game
 
 what is simon says game?
 
-In this you are giver 4 boxes with different colors.
+In this you are given 4 boxes with different colors.
 
 1 - Once you click any key on keyboard, the game will start.
 2 - One of those four boxes will flash.
